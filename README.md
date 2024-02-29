@@ -1,5 +1,5 @@
-<h1>DIO-AI900-Module-05</h1>
-<p>Fifth module challenge for ( DIO - Digital Innovation One) Bootcamp AI 900 (Machine Learning Training)</p>
+<h1>DIO-AI900-Module-01</h1>
+<p>First module challenge for ( DIO - Digital Innovation One) Bootcamp AI 900 (Machine Learning Training)</p>
 
 <h2>Acess to: https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html<br>
 
