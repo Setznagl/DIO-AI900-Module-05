@@ -1,6 +1,6 @@
 <img src="/Assets/rep-temp.png" width= 100%>
 <h1>DIO-AI900-Module-01</h1>
-<p>First module challenge for ( DIO - Digital Innovation One) Bootcamp AI 900 (Machine Learning Training)</p>
+<p>Fifth module challenge for ( DIO - Digital Innovation One) Bootcamp AI 900 (Generative IA with OpenIA)</p>
 
 <h2>Acess to: https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html<br>
 
@@ -9,10 +9,10 @@
 <h2>Creation of the "LABAI900" resource group</h2>
 <img src="/Assets" width= 100%>
 
-<h2>Creation of the Machine Learning resource "DIO AI 900 Modulo 01"</h2>
+<h2>Creation of the  resource ""</h2>
 <img src="/Assets" width= 100%>
 
-<h2>Access to the Machine Learning subportal;</h2>
+<h2>Access to the  subportal;</h2>
 <img src="/Assets" width= 100%>
 
 <h2>Creation of the JOB mslearn-bike-automl;
