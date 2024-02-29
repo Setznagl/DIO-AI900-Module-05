@@ -1,6 +1,6 @@
 <img src="/Assets/rep-temp.png" width= 100%>
-<h1>DIO-AI900-Module-01</h1>
-<p>Fifth module challenge for ( DIO - Digital Innovation One) Bootcamp AI 900 (Generative IA with OpenIA)</p>
+<h1>DIO-AI900-Module-05</h1>
+<p>Fifth module challenge for ( DIO - Digital Innovation One) Bootcamp AI 900 (Generative IA with Copilote and OpenIA)</p>
 
 <h2>Access to: https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/12-generative-ai.html<br></h2>
 <h2>Access to: https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/13-azure-openai.htmlbr><br></h2>
