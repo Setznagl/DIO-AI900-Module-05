@@ -1,3 +1,4 @@
+<img src="/Assets/rep-temp.png" width= 100%>
 <h1>DIO-AI900-Module-01</h1>
 <p>First module challenge for ( DIO - Digital Innovation One) Bootcamp AI 900 (Machine Learning Training)</p>
 
