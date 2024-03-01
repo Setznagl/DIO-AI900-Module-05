@@ -18,17 +18,18 @@
 <img src="/Assets/az-gen-ia-copilot-5.png" width= 100%>
 
 <h2>Generative IA image test</h2>
-<h2>Envio de promp para teste:</h2>
+<h2>Test prompt submission: "Create an image of a medieval hamburguer warrior"</h2>
+<img src="/Assets/az-copilot-image-prompt-1.png" width= 100%>
+<img src="/Assets/az-copilot-burguer-knight.jpg" width= 100%>
 
-<p>Prompt: Quais são os 5 maiores prós e contras em se estudar java em 2024?</p>
+<h2>Generative IA image test 2</h2>
+<h2>Test prompt submission: "guerrilla chicken based on Rambo movies"</h2>
+<img src="/Assets/az-copilot-image-prompt-2.png" width= 100%>
+<img src="/Assets/az-copilot-frambo.jpg" width= 100%>
 
-<img src="/Assets" width= 100%>
-
-<h2></h2>
-<img src="/Assets" width= 100%>
-
-<h2>A</h2>
-<img src="/Assets" width= 100%>
+<h2>Generative IA Additional tests</h2>
+<img src="/Assets/az-copilot-heavy-cricketal.jpg" width= 100%>
+<img src="/Assets/az-copilot-ballerina-walrus.jpg" width= 100%>
 
 <h2></h2>
 <img src="/Assets" width= 100%>
