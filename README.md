@@ -28,8 +28,16 @@
 <img src="/Assets/az-copilot-frambo.jpg" width= 100%>
 
 <h2>Generative IA Additional tests</h2>
+
+<figure>
 <img src="/Assets/az-copilot-heavy-cricketal.jpg" width= 100%>
+<figcaption>Heavy Metal cricket guitar player</figcaption>
+</figure>
+
+<figure>
 <img src="/Assets/az-copilot-ballerina-walrus.jpg" width= 100%>
+<figcaption>Ballerina walrus</figcaption>
+</figure>
 
 <h2></h2>
 <img src="/Assets" width= 100%>
