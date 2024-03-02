@@ -39,7 +39,4 @@
 <figcaption>Ballerina walrus</figcaption>
 </figure>
 
-<h2></h2>
-<img src="/Assets" width= 100%>
-
 
