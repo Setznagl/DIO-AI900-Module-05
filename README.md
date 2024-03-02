@@ -3,7 +3,7 @@
 <p>Fifth module challenge for ( DIO - Digital Innovation One) Bootcamp AI 900 (Generative IA with Copilote and OpenIA)</p>
 
 <h2>Access to: https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/12-generative-ai.html<br></h2>
-<h2>Access to: https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/13-azure-openai.htmlbr><br></h2>
+<h2>Access to: https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/13-azure-openai.html><br></h2>
 <h2>Access to: https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/14-azure-openai-content-filters.html<br></h2>
 
 <h2>Access to <a href="https://copilot.microsoft.com/">Microsoft Copilot</a></h2>
